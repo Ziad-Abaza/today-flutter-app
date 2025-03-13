@@ -3,21 +3,24 @@
 ![App Screenshot](screenshots/view.jpg)  
 
 ## About the Project  
-This is my **first training project** while learning **Flutter**. It is not related to my upcoming university project, which will be inspired by **Dubizzle (formerly OLX)**. This app is simply a practice project where I applied various Flutter concepts I learned. If given the opportunity, I plan to enhance and expand its features further.  
+**Today** is a **task management application** built with **Flutter**, designed to help users **organize their daily tasks efficiently**. The app provides a **simple, user-friendly interface** that makes it easy to create, edit, and track tasks seamlessly.  
+
+This system offers a structured way to **prioritize and manage tasks**, ensuring that users stay productive throughout the day. While it currently operates with local storage, future updates will introduce **cloud-based synchronization and improved scheduling** for a more flexible experience.  
 
 ## Features  
-✔ **Simple and modern UI** for an intuitive user experience  
-✔ **Task management system** to track daily activities  
-✔ **Task categorization and priority levels**  
-✔ **Local storage with SQLite** for offline accessibility  
-✔ **Basic authentication system (Planned)**  
-✔ **Responsive design** for different screen sizes  
+✔ **Minimalistic and modern UI** for an intuitive user experience  
+✔ **Task creation, editing, and completion tracking**  
+✔ **Task prioritization and categorization** for better organization  
+✔ **Local storage with SQLite** for offline usage  
+✔ **Planned backend integration** for cloud access  
+✔ **Fully responsive design** adaptable to different screen sizes  
 
 ## Tech Stack  
 - **Flutter (Dart)** – Frontend framework  
 - **Provider** – State management  
 - **SQLite** – Local database for storing tasks  
-- **Firebase (Planned)** – Authentication & real-time database  
+- **Laravel (Planned)** – Backend for cloud synchronization  
+- **Firebase (Planned)** – Authentication & push notifications  
 
 ## Installation  
 To run the project locally, follow these steps:  
@@ -40,18 +43,20 @@ To run the project locally, follow these steps:
    ```  
 
 ## Future Enhancements  
-✨ **Firebase integration** for authentication and real-time data  
-✨ **Task reminders and notifications**  
-✨ **User profiles and customization**  
-✨ **Cloud backup for task synchronization**  
-✨ **Multi-language support** for a wider audience  
+✨ **Push notifications** to remind users of pending tasks  
+✨ **Improved scheduling system** for better time management  
+✨ **Cloud-based backend using Laravel** for remote task access  
+✨ **Cross-device synchronization** to manage tasks from any platform  
+✨ **User authentication system** to personalize the experience  
 
-## Contributions  
-Since this is a **personal learning project**, contributions are not open at the moment. However, feedback and suggestions are always welcome!  
+## Open for Contributions  
+This project is **open for further development**, and I welcome contributions from developers who wish to enhance its features. Whether it's improving UI, optimizing backend functionality, or adding new features, **your input is valuable!**  
 
-## License  
-This project is intended for **learning purposes only** and is not officially licensed for commercial use.  
+## About This Project  
+This app was created as a **training project** to apply **Flutter concepts**, including **state management, local storage, and UI design**. While my upcoming **university project** will be inspired by **Dubizzle (formerly OLX)**, **Today** focuses entirely on **task management and productivity**.  
+
+I plan to continue improving the app, making it a more **robust and efficient** task management system. 🚀  
 
 ---
 
-🚀 **Stay tuned for future updates and improvements!** 🚀  
+📌 **Stay tuned for future updates and improvements!**
